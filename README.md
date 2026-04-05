@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nadeenbadr0@gmail.com**
 
-- 📄 Know about me [https://keen-marshmallow-cbd31a.netlify.app/](https://keen-marshmallow-cbd31a.netlify.app/)
+- 📄 Know about (https://nadeen-badr.github.io/portfolioV2/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
