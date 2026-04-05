@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadeen</h1>
-<h3 align="center">I build the engines that make websites run smoothly. Mostly .NET</h3>
+<h3 align="center">I build the engines that make websites run smoothly. Mostly .NET and Django</h3>
 
 - 🌱 I’m currently learning **Angular**
 
