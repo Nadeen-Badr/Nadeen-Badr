@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **.Net , c#**
+- 💬 Ask me about **.Net , c# , Django ,Python** 
 
 - 📫 How to reach me **nadeenbadr0@gmail.com**
 
